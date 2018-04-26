@@ -1,0 +1,8 @@
+{
+  "name": "clupon",
+  "app_id": "75cb78e2",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
